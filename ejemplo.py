@@ -1,5 +1,9 @@
 
 
+def funcion():
+    return "El mundo es hermoso"
+
+
 if __name__ == "__main__":
     print("Con git clone se trae el proyecto desde github")
     print("Ejemplo: git clone https://github.com/amurer808/proyecto_de_prueba.git")
@@ -21,3 +25,5 @@ if __name__ == "__main__":
     print("Para subir los cambios a github se usa el git push")
     print("Ejemplo: git push")
     print()
+
+    print("Llamando a funcion:", funcion())
