@@ -39,3 +39,16 @@ if __name__ == "__main__":
     print("Para crear una nueva rama usas git branch <nombre>")
     print("Ejemplo: git branch newbanch")
     print()
+
+    print("Para cambiar entre ramas se usa el git checkout")
+    print("Ejemplo: git checkout main")
+    print("Ejemplo: git checkout newbranch")
+    print()
+
+    print("Para recibir los cambios de una rama tienes que pararte en la que los va a recibir y hacer merge")
+    print("Ejemplo: Si se quiere que main reciba cambios de newbranch")
+    print("git checkout main")
+    print("git merge newbranch")
+    print("Resolver conflictos en caso de que haya y hacer add y commit")
+    print()
+
