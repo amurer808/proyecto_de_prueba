@@ -31,3 +31,8 @@ if __name__ == "__main__":
     print("Para actualizar los cambios de github se usa el git pull")
     print("Ejemplo: git pull")
     print()
+
+    print("Para cambiar entre ramas se usa el git checkout")
+    print("Ejemplo: git checkout main")
+    print("Ejemplo: git checkout newbranch")
+    print()
