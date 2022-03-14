@@ -52,3 +52,7 @@ if __name__ == "__main__":
     print("Resolver conflictos en caso de que haya y hacer add y commit")
     print()
 
+    print("Para borrar una rama se usa el git branch -d")
+    print("Ejemplo: git branch -d newbranch")
+    print()
+
