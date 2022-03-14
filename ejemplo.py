@@ -1,7 +1,7 @@
 
 
 def funcion():
-    return "El mundo es hermoso"
+    return "El planeta es hermoso"
 
 
 if __name__ == "__main__":
