@@ -1,7 +1,7 @@
 
 
 def funcion():
-    return "El mundo es hermoso"
+    return "El mundo es hermoso y la tierra es verde y azul"
 
 
 if __name__ == "__main__":
@@ -27,3 +27,7 @@ if __name__ == "__main__":
     print()
 
     print("Llamando a funcion:", funcion())
+
+    print("Para actualizar los cambios de github se usa el git pull")
+    print("Ejemplo: git pull")
+    print()
